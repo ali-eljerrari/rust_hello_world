@@ -2,5 +2,6 @@
 name = "rust_hello_world"
 version = "0.1.0"
 edition = "2021"
+authors = ["Coding Dynasty contact@coding-dynasty.com"]
 
 [dependencies]
